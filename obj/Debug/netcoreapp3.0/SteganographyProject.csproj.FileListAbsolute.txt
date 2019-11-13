@@ -1,0 +1,11 @@
+C:\Users\Aastha\source\repos\SteganographyProject\bin\Debug\netcoreapp3.0\SteganographyProject.exe
+C:\Users\Aastha\source\repos\SteganographyProject\bin\Debug\netcoreapp3.0\SteganographyProject.deps.json
+C:\Users\Aastha\source\repos\SteganographyProject\bin\Debug\netcoreapp3.0\SteganographyProject.runtimeconfig.json
+C:\Users\Aastha\source\repos\SteganographyProject\bin\Debug\netcoreapp3.0\SteganographyProject.runtimeconfig.dev.json
+C:\Users\Aastha\source\repos\SteganographyProject\bin\Debug\netcoreapp3.0\SteganographyProject.dll
+C:\Users\Aastha\source\repos\SteganographyProject\bin\Debug\netcoreapp3.0\SteganographyProject.pdb
+C:\Users\Aastha\source\repos\SteganographyProject\obj\Debug\netcoreapp3.0\SteganographyProject.csprojAssemblyReference.cache
+C:\Users\Aastha\source\repos\SteganographyProject\obj\Debug\netcoreapp3.0\SteganographyProject.AssemblyInfoInputs.cache
+C:\Users\Aastha\source\repos\SteganographyProject\obj\Debug\netcoreapp3.0\SteganographyProject.AssemblyInfo.cs
+C:\Users\Aastha\source\repos\SteganographyProject\obj\Debug\netcoreapp3.0\SteganographyProject.dll
+C:\Users\Aastha\source\repos\SteganographyProject\obj\Debug\netcoreapp3.0\SteganographyProject.pdb
